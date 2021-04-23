@@ -1,0 +1,13 @@
+.site-card-wrapper1 {
+    padding: 54px;
+    background: #ececec;
+  }
+
+img.login {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vh;
+    height: 45%;
+    width: 45%;
+}
